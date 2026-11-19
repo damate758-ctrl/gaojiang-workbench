@@ -1,0 +1,7 @@
+playwright>=1.65,<2
+pywebview>=6.2,<7
+psutil>=5.9,<8
+beautifulsoup4>=4.14,<5
+lxml>=6,<7
+pystray>=0.19.5,<1
+pillow>=10,<13
