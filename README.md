@@ -188,7 +188,7 @@ flowchart LR
 ### 源码运行
 
 ```powershell
-git clone https://github.com/<your-name>/gaojiang-workbench.git
+git clone https://github.com/damate758-ctrl/gaojiang-workbench.git
 cd gaojiang-workbench
 
 python -m pip install -r requirements.txt
